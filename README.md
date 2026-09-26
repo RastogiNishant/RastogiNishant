@@ -8,17 +8,21 @@
 
 
 🛠️ Tech Stack
+
 🎨 Frontend
 
 ⚛️ React.js • ▲ Next.js • Redux • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
+
 
 ⚙️ Backend
 
 🟢 Node.js • Express.js • 🐍 Python • REST APIs • GraphQL
 
+
 🤖 AI & LLM
 
 🧠 LLM Applications • 🔎 RAG (Retrieval-Augmented Generation) • 🤖 AI Agents • ✨ Prompt Engineering • 🔌 AI Integrations • 🧩 Embeddings • 🔍 Vector Search • ⚡ AI-powered Workflows
+
 
 🗄️ Databases
 
@@ -55,11 +59,8 @@
 ![](https://streak-stats.demolab.com/?user=RastogiNishant&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RastogiNishant&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RastogiNishant&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=RastogiNishant&icon=0&color=0)](https://visitcount.itsvg.in)
