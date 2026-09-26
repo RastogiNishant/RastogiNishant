@@ -1,5 +1,44 @@
-# 💫 About Me:
-I’m a Full-Stack Developer & AI Engineer with 10+ years of experience building scalable, high-performance web applications, SaaS platforms, and AI-powered products.<br><br>My core expertise spans React.js, Next.js, TypeScript, JavaScript, Node.js, Python, and modern AI/LLM technologies. I enjoy building products end-to-end — from scalable frontend architectures and APIs to AI-powered workflows, intelligent search, and data-driven applications.<br><br>🛠️ Tech Stack<br>Frontend: React.js, Next.js, Redux, JavaScript, TypeScript, HTML, CSS, Tailwind CSS<br>Backend: Node.js, Express.js, Python, REST APIs<br>AI & LLM: LLM Applications, RAG (Retrieval-Augmented Generation), AI Agents, Prompt Engineering, AI Integrations, Embeddings, Vector Search, AI-powered Workflows<br>Databases: SQL, PostgreSQL, Supabase<br>Architecture: Full-Stack Applications, Scalable UI Architecture, RESTful APIs, Headless CMS, AI Application Architecture<br>Development: Performance Optimization, Responsive Design, API Integration, Component-Driven Development<br>🤖 AI & Product Development<br><br>I’m particularly interested in building AI-powered applications that solve real-world business problems, including intelligent document processing, knowledge-based systems, conversational interfaces, semantic search, and LLM-powered workflows.<br><br>I enjoy working across the entire product lifecycle — from idea and architecture to development, deployment, and optimization.
+#💫 About Me
+
+👋 Hey there! I’m a Full-Stack Developer & AI Engineer with 10+ years of experience 🚀 building scalable, high-performance web applications, SaaS platforms, and AI-powered products.
+
+💡 I love turning complex ideas into simple, scalable, and user-friendly digital experiences — from modern frontend architectures 🎨 and robust APIs ⚙️ to intelligent AI-powered workflows 🤖.
+
+🌱 I’m continuously exploring new technologies in AI, LLMs, RAG, AI Agents, and modern web architecture to build smarter products and solve real-world problems.
+
+🛠️ Tech Stack
+
+🎨 Frontend
+⚛️ React.js • ▲ Next.js • Redux • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
+
+⚙️ Backend
+🟢 Node.js • Express.js • 🐍 Python • REST APIs • GraphQL
+
+🤖 AI & LLM
+🧠 LLM Applications • 🔎 RAG (Retrieval-Augmented Generation) • 🤖 AI Agents • ✨ Prompt Engineering • 🔌 AI Integrations • 🧩 Embeddings • 🔍 Vector Search • ⚡ AI-powered Workflows
+
+🗄️ Databases
+🐘 PostgreSQL • 🐬 SQL • Supabase
+
+🏗️ Architecture & Development
+🧱 Full-Stack Applications • 📐 Scalable UI Architecture • 🔗 RESTful APIs • 🧩 Headless CMS • 🤖 AI Application Architecture • ⚡ Performance Optimization • 📱 Responsive Design • 🧪 Component-Driven Development
+
+🤖 AI & Product Development
+
+🚀 I’m particularly interested in building AI-powered applications that solve real-world business problems, including:
+
+📄 Intelligent Document Processing
+🧠 Knowledge-Based Systems
+💬 Conversational AI
+🔎 Semantic & Vector Search
+📚 RAG Applications
+🤖 AI Agents & Autonomous Workflows
+⚡ LLM-powered Applications
+🔗 AI & API Integrations
+
+💻 I enjoy working across the entire product lifecycle — from 💡 idea and 🏗️ architecture to 👨‍💻 development, 🚀 deployment, and ⚡ optimization.
+
+✨ Build. Learn. Innovate. Repeat.
 
 
 ## 🌐 Socials:
