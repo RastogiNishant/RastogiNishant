@@ -1,23 +1,31 @@
 # 💫 About Me
 
 👋 Hey there! I’m a Full-Stack Developer & AI Engineer with 10+ years of experience 🚀 building scalable, high-performance web applications, SaaS platforms, and AI-powered products.
+
 💡 I love turning complex ideas into simple, scalable, and user-friendly digital experiences — from modern frontend architectures 🎨 and robust APIs ⚙️ to intelligent AI-powered workflows 🤖.
+
 🌱 I’m continuously exploring new technologies in AI, LLMs, RAG, AI Agents, and modern web architecture to build smarter products and solve real-world problems.
+
 
 🛠️ Tech Stack
 🎨 Frontend
+
 ⚛️ React.js • ▲ Next.js • Redux • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
 
 ⚙️ Backend
+
 🟢 Node.js • Express.js • 🐍 Python • REST APIs • GraphQL
 
 🤖 AI & LLM
+
 🧠 LLM Applications • 🔎 RAG (Retrieval-Augmented Generation) • 🤖 AI Agents • ✨ Prompt Engineering • 🔌 AI Integrations • 🧩 Embeddings • 🔍 Vector Search • ⚡ AI-powered Workflows
 
 🗄️ Databases
+
 🐘 PostgreSQL • 🐬 SQL • Supabase
 
 🏗️ Architecture & Development
+
 🧱 Full-Stack Applications • 📐 Scalable UI Architecture • 🔗 RESTful APIs • 🧩 Headless CMS • 🤖 AI Application Architecture • ⚡ Performance Optimization • 📱 Responsive Design • 🧪 Component-Driven Development
 
 🤖 AI & Product Development
